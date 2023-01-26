@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<ArrayOfGasoline xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Gasoline>
+    <type>A-95 premium</type>
+    <price>34.6</price>
+  </Gasoline>
+</ArrayOfGasoline>
